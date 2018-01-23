@@ -1,0 +1,11 @@
+.class*
+.project*
+BSD*
+build.*
+sysProps.xml
+*.java~
+dist
+build
+bin
+*.class
+*.jar
